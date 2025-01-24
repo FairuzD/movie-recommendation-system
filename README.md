@@ -16,11 +16,7 @@ Sistem ini dirancang untuk merekomendasikan film-film yang mirip berdasarkan gen
 ## Dataset
 Dataset yang saya gunakan diunduh dari [MovieLens](https://grouplens.org/datasets/movielens/).
 
-## Instalasi
-1. Clone repositori ini:
-   ```bash
-   git clone (https://github.com/FairuzD/movie-recommendation-system)
-2. Library
+## Library
    ```bash
    pip install pandas scikit-learn
 
